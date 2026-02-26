@@ -1,12 +1,12 @@
 {
   "name": "bkuts-mvc-ws",
-  "version": "1.0.0",
-  "description": "BKUTS MVC Web Services Application",
+  "version": "3.1.1",
+  "description": "BKUTS Web Services Application",
   "main": "index.html",
   "scripts": {
     "version": "npm version"
   },
-  "keywords": ["mvc", "webservices", "bkuts"],
+  "keywords": ["webservices", "bkuts"],
   "author": "BoerTeam",
   "license": "MIT"
 }
