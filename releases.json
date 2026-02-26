@@ -1,0 +1,18 @@
+{
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-02-26",
+      "description": "İlk yayın - Temel MVC yapısı",
+      "download_url": "https://github.com/BoerTeam/BKUTS_WS_MVC.github.io/releases/download/v1.0.0/bkuts_mvc_v1.0.0.zip",
+      "changelog": "- Başlangıç sürümü"
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-02-25",
+      "description": "Web Services entegrasyonu eklendi",
+      "download_url": "https://github.com/BoerTeam/BKUTS_WS_MVC.github.io/releases/download/v1.1.0/bkuts_mvc_v1.1.0.zip",
+      "changelog": "- API endpoints eklendi"
+    }
+  ]
+}
